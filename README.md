@@ -82,13 +82,16 @@ The project demonstrates full-stack development concepts including authenticatio
 ---
 ![homepage](./screenshot/home-page.png)
 
+
 ![registerpage](./screenshot/register-page.png)
+
 
 ![dashboard](./screenshot/dashboard.png)
 
-![symptom](./screenshot/symptom.png)
 
-![checkedsymptom](./screenshot/checkedsymptom.png)
+
+
+![checkedsymptom](./screenshot/checked-symptom.png)
 
 ## ⚙️ Installation
 
