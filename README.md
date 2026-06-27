@@ -2,7 +2,9 @@
 
 A full-stack MERN web application that allows users to input symptoms and receive intelligent health recommendations.
 
-
+## Live Demo
+- **Frontend:** https://smart-healthcare-portal-f54f-aw4uj4san.vercel.app/
+- **Backend API:** https://smart-healthcare-portal-o5w9.onrender.com
 
 ## Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS, React Router, Axios
