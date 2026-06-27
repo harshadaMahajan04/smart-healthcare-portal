@@ -78,8 +78,13 @@ The project demonstrates full-stack development concepts including authenticatio
 - Vercel (Frontend)
 - Render (Backend)
 
+## 📸 Screenshots
 ---
-
+![HomePage](./screenshot/home-page.png)
+![RegisterPage](./screenshot/register-page.png)
+![Dashboard](./screenshot/dashboard.png)
+![SymptomChecker](./screenshot/symptom-checker.png)
+![CheckedSymptom](./screenshot/checked-symptom.png)
 
 ## ⚙️ Installation
 
