@@ -8,7 +8,7 @@ import Result from './pages/Result'
 import NotFound from './pages/NotFound'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import { ProtectedRoute, PublicRoute } from './components/ProtectedRoute'
+import { ProtectedRoute, PublicRoute } from './components/protectedRoute'
 
 function App() {
   return (
