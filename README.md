@@ -80,9 +80,9 @@ The project demonstrates full-stack development concepts including authenticatio
 
 ## 📸 Screenshots
 ---
-![homepage](./screenshot/homepage.png)
+![homepage](./screenshot/home-page.png)
 
-![registerpage](./screenshot/registerpage.png)
+![registerpage](./screenshot/register-page.png)
 
 ![dashboard](./screenshot/dashboard.png)
 
